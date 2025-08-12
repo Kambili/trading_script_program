@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Project output
+backtest_output/
+*.png
+
+# VS Code
+.vscode/
